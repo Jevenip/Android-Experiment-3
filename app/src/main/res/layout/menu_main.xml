@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_small" android:title="Small Font" />
+    <item android:id="@+id/menu_medium" android:title="Medium Font" />
+    <item android:id="@+id/menu_large" android:title="Large Font" />
+    <item android:id="@+id/menu_red" android:title="Red Text" />
+    <item android:id="@+id/menu_black" android:title="Black Text" />
+</menu>
